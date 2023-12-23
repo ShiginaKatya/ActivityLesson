@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLesson</string>
+    <string name="activity_button">Отправить</string>
+    <string name="tel_button">Позвонить</string>
+    <string name="tel_hint">телефон</string>
+    <string name="text_hint">данные для передачи</string>
+    <string name="text">text</string>
+</resources>
